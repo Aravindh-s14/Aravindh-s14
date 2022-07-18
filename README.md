@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aravindh-s14
-//- 👀 I’m interested in full stack devolopment...
+<!-- 👀 I’m interested in full stack devolopment...>
 - 🌱 I’m currently learning UI/UX
 - 📫 How to reach me vishnuaravind14@gmail.com
 
