@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Aravindh-s14
-
-- 🌱 I’m currently learning UI/UX
 - 📫 How to reach me vishnuaravind14@gmail.com
 
 <!---[Visitor Count](https://profile-counter.glitch.me/{Aravindh-s14}/count.svg)--->
