@@ -1,24 +1,18 @@
-- 👋 Hi, I’m @Aravindh-s14
-- 📫 How to reach me vishnuaravind14@gmail.com
+### Aravind S Panicker
+
+> ar-avin-d
+
+I'm a dedicated Quality Assurance Engineer passionate about ensuring software quality, improving testing processes, and delivering bug-free applications. Here, you'll find a collection of projects, contributions, and resources related to the world of software testing and quality assurance. Connect with me on :
+
+[![Linkedin Badge](https://img.shields.io/badge/-_Aravind_S_Panicker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aravind-s-97a470203/)](https://www.linkedin.com/in/aravind-s-97a470203//)
+[![Instagram Badge](https://img.shields.io/badge/-aravindh.__-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/aravindh.__/)](https://www.instagram.com/aravindh.__/)
+[![Gmail Badge](https://img.shields.io/badge/-vishnuaravind14@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishnuaravindh14@gmail.com)](mailto:vishnuaravindh14@gmail.com)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aravindh-s14)
+
+### 👨‍💻 Tech I'm currently working on
+
+<img align='right' src='https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif' width='200"'>
 
 <!---[Visitor Count](https://profile-counter.glitch.me/{Aravindh-s14}/count.svg)--->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aravindh-s14)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><br><br>
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> 
-<!---
-Aravindh-s14/Aravindh-s14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-- 💞️ I’m looking to collaborate on ...
-<!-- 👀 I’m interested in full stack devolopment... >
-
-
---->
