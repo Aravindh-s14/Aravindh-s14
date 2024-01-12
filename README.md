@@ -11,7 +11,7 @@ I'm a dedicated Quality Assurance Engineer passionate about ensuring software qu
 
 <!---//### 👨‍💻 Tech I'm currently working on--->
 
-//<img align='right' src='https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif' width='200"'>
+<!---<img align='right' src='https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif' width='200"'>--->
 
 <!---[Visitor Count](https://profile-counter.glitch.me/{Aravindh-s14}/count.svg)--->
 
