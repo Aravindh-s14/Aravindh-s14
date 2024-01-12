@@ -9,9 +9,9 @@ I'm a dedicated Quality Assurance Engineer passionate about ensuring software qu
 [![Gmail Badge](https://img.shields.io/badge/-vishnuaravind14@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishnuaravindh14@gmail.com)](mailto:vishnuaravindh14@gmail.com)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aravindh-s14)
 
-### 👨‍💻 Tech I'm currently working on
+//### 👨‍💻 Tech I'm currently working on
 
-<img align='right' src='https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif' width='200"'>
+//<img align='right' src='https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif' width='200"'>
 
 <!---[Visitor Count](https://profile-counter.glitch.me/{Aravindh-s14}/count.svg)--->
 
